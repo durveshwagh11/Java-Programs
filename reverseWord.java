@@ -1,6 +1,6 @@
 public class reverseWord {
     public static void main(String[] args) {
-        String input = "My Name is Durvesh Wagh";
+        String input = "Durvesh Wagh";
         String[] word = input.split(" ");
         String rev = "";
 
